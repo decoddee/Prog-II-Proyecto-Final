@@ -1,0 +1,4 @@
+customtkinter
+sqlalchemy
+matplotlib
+fpdf
